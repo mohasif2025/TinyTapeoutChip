@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "8-Bit ALU"      # Project title
-  author:       "Timon Strassern"      # Your name
+  author:       "MohAsif2025 - (Timon Strassern ALU inspired)"      # Your name
   description:  "8-Bit arithmetic logic unit perfomring arithmetic and bitwise operations on integer binary numbers."     # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     50000000       # Clock frequency in Hz (or 0 if not applicable)
